@@ -1,6 +1,6 @@
 <h1 align="center">CyberHub - Cybersecurity Resource Hub</h1>
 <p align="center">
-<a href="https://github.com/Daniel-wambua/cyberhub"><img src="public/prof.png" width="200" /><br /></a>
+<a href="https://github.com/Daniel-wambua/cyberhub"><img src="https://gitlab.com/richie-havoc/cyberhub/-/raw/main/public/prof.png" width="200" /><br /></a>
 <i>A modern, automated cybersecurity resource hub</i>
 <br />
 <i>Built with Astro, featuring 458+ curated resources with genuine descriptions</i>
@@ -140,10 +140,10 @@ Individual pages for each resource with Open Graph, Twitter Cards, and JSON-LD s
 ## Screenshot
 
 <h3 align="center">Desktop 🖥️</h3>
-<p align="center"><img width="650" src="public/laptop.png" alt="Desktop View" /></p>
+<p align="center"><img width="650" src="https://gitlab.com/richie-havoc/cyberhub/-/raw/main/public/laptop.png?ref_type=heads" alt="Desktop View" /></p>
 
 <h3 align="center">Mobile 📱</h3>
-<p align="center"><img width="350" src="public/mobile.jpg" alt="Mobile View" /></p>
+<p align="center"><img width="350" src="https://gitlab.com/richie-havoc/cyberhub/-/raw/main/public/mobile.jpg" alt="Mobile View" /></p>
 
 ---
 
