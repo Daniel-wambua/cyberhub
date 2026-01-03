@@ -23,7 +23,7 @@ This project is both a **learning accelerator** and a **proof-of-concept** in in
 > **Professional Background**<br>
 > I'm a cybersecurity enthusiast and full-stack developer passionate about automation,Security, open-source tools, and building systems that work smarter, not harder. This project showcases modern web development practices combined with practical automation for the cybersecurity community.
 >
-> This resource hub automation reflects my philosophy: why manually maintain hundreds of descriptions when you can build intelligent systems that fetch, validate, and update them automatically? The entire pipeline is designed for maximum efficiency and genuine content accuracy.CyberHub is an experiment in that philosophy: build once, automate forever
+> This resource hub automation reflects my philosophy: why manually maintain hundreds of descriptions when you can build intelligent systems that fetch, validate, and update them automatically? The entire pipeline is designed for maximum efficiency and genuine content accuracy.CyberHub is an experiment in that philosophy: build once, automate forever,Boom!!!!
 
 </details>
 
