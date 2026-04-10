@@ -5,7 +5,7 @@
 <br />
 <i>Built with Astro, featuring 458+ curated resources with genuine descriptions</i>
 <br />
-<b>🌐 <a href="https://cyberhub.havocsec.tech">cyberhub.</a> | 📦 <a href="https://github.com/Daniel-wambua/cyberhub"><code>Resources</code></a></b> <br />
+<b>🌐 <a href="https://cyberhub.havocsec.dev">cyberhub.</a> | 📦 <a href="https://github.com/Daniel-wambua/cyberhub"><code>Resources</code></a></b> <br />
 </p>
 
 ## Motive
