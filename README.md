@@ -5,7 +5,7 @@
 <br />
 <i>Built with Astro, featuring 458+ curated resources with genuine descriptions</i>
 <br />
-<b>🌐 <a href="https://cyberhub.havocsec.dev">cyberhub.</a> | 📦 <a href="https://github.com/Daniel-wambua/cyberhub"><code>Resources</code></a></b> <br />
+<b>🌐 <a href="https://cyberhub.havocsec.tech">cyberhub.</a> | 📦 <a href="https://github.com/Daniel-wambua/cyberhub"><code>Resources</code></a></b> <br />
 </p>
 
 ## Motive
@@ -13,7 +13,7 @@ CyberHub was built to eliminate one of cybersecurity’s biggest time-wasters:
 > **Finding quality, up-to-date learning and research resources.**
 
 Instead of manually maintaining endless bookmarks or relying on outdated “awesome lists,”  
-CyberHub automates the entire process — collecting, verifying, and describing hundreds of tools and platforms across cybersecurity, IT, and computer science.
+CyberHub automates the entire process - collecting, verifying, and describing hundreds of tools and platforms across cybersecurity, IT, and computer science.
 
 This project is both a **learning accelerator** and a **proof-of-concept** in intelligent automation.
 
@@ -21,7 +21,7 @@ This project is both a **learning accelerator** and a **proof-of-concept** in in
   <summary>About the Developer</summary>
 
 > **Professional Background**<br>
-> I'm a cybersecurity enthusiast and full-stack developer passionate about automation,Security, open-source tools, and building systems that work smarter, not harder. This project showcases modern web development practices combined with practical automation for the cybersecurity community.
+> I'm a cybersecurity enthusiast and  passionate about automation,Security, open-source tools, and building systems that work smarter, not harder. This project showcases modern web development practices combined with practical automation for the cybersecurity community.
 >
 > This resource hub automation reflects my philosophy: why manually maintain hundreds of descriptions when you can build intelligent systems that fetch, validate, and update them automatically? The entire pipeline is designed for maximum efficiency and genuine content accuracy.CyberHub is an experiment in that philosophy: build once, automate forever,Boom!!!!
 
@@ -181,7 +181,7 @@ This project was made possible by the following open-source libraries:
 
 ## License
 
-> _**[CyberHub](https://github.com/Daniel-wambua/cyberhub)** is licensed under [MIT](https://github.com/Daniel-wambua/cyberhub/blob/HEAD/LICENSE) © [Havoc](https://lab.havocsec.me) 2025._<br>
+> _**[CyberHub](https://github.com/Daniel-wambua/cyberhub)** is licensed under [MIT](https://github.com/Daniel-wambua/cyberhub/blob/HEAD/LICENSE) © [Havoc](https://lab.havocsec.dev) 2025._<br>
 > <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
 
 <details>
@@ -189,7 +189,7 @@ This project was made possible by the following open-source libraries:
 
 ```
 The MIT License (MIT)
-Copyright (c) Havoc <havoc@havocsec.me>
+Copyright (c) Havoc <havoc@havocsec.dev>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this software and associated documentation files (the "Software"), to deal 
@@ -213,7 +213,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <!-- License + Copyright -->
 <p align="center">
-  <i>© <a href="https://lab.havocsec.me">Havoc</a> 2025</i><br>
+  <i>© <a href="https://lab.havocx.me">Havoc</a> 2025</i><br>
   <i>Licensed under <a href="https://opensource.org/licenses/MIT">MIT</a></i><br>
   <a href="https://gitlab.com/richie-havoc"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <sup>Thanks for visiting :)</sup>
